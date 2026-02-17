@@ -25,3 +25,7 @@ A Python-based security tool that evaluates password strength based on standard 
 
 ```bash
 python password_strength.py
+
+🎯 Purpose
+
+Designed for educational purposes to demonstrate password security evaluation techniques.
